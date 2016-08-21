@@ -1,5 +1,5 @@
 
-(function p10() {
+function p10() {
   // 2e+6 maxValue
   var i = 2e+6;
   var sum = 0;
@@ -27,4 +27,7 @@
   }
 
   return sum;
-}());
+}
+
+
+console.log(p10());
