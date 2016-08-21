@@ -1,5 +1,5 @@
 
-(function p1() {
+
   var sum = 0;
   var n = 1000;
 
@@ -9,5 +9,4 @@
     }
   }
   
-  return sum;
-}());
+ console.log(sum);
